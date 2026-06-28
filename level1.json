@@ -1,0 +1,473 @@
+[
+  {
+    "english": "Last night I watched this awesome old show.",
+    "japanese": "ゆうべ この めっちゃ ふるい ばんぐみ を みた。さいこう だった。",
+    "note": "Focus: past short-form verb + past な-style ending.",
+    "tags": [
+      { "icon": "bi-clock", "label": "Time" },
+      { "icon": "bi-play-circle", "label": "Past verb" },
+      { "icon": "bi-stars", "label": "Opinion" }
+    ]
+  },
+  {
+    "english": "Harajuku was always colourful and annoyingly crowded.",
+    "japanese": "はらじゅく は いつも カラフル で、めっちゃ こんでいた。",
+    "note": "Focus: な-adjective joining with で.",
+    "tags": [
+      { "icon": "bi-link-45deg", "label": "Adj join" },
+      { "icon": "bi-clock-history", "label": "Past" }
+    ]
+  },
+  {
+    "english": "I found a really great cheap restaurant on Saturday.",
+    "japanese": "どようび に めっちゃ いい、やすい レストラン を みつけた。",
+    "note": "Focus: two adjectives before a noun + past verb.",
+    "tags": [
+      { "icon": "bi-calendar3", "label": "Time" },
+      { "icon": "bi-type", "label": "Adj + noun" },
+      { "icon": "bi-play-circle", "label": "Past verb" }
+    ]
+  },
+  {
+    "english": "That robot was strange but really friendly.",
+    "japanese": "あの ロボット は へん だけど、めっちゃ しんせつ だった。",
+    "note": "Focus: けど contrast + past な-adjective.",
+    "tags": [
+      { "icon": "bi-link", "label": "けど" },
+      { "icon": "bi-clock-history", "label": "Past" }
+    ]
+  },
+  {
+    "english": "This curry is delicious but very spicy.",
+    "japanese": "この カレー は おいしい けど、めっちゃ からい。",
+    "note": "Focus: けど with two い-adjectives.",
+    "tags": [
+      { "icon": "bi-link", "label": "けど" },
+      { "icon": "bi-type", "label": "い-adj" }
+    ]
+  },
+  {
+    "english": "Koenji was scary at night.",
+    "japanese": "よる の こうえんじ は こわかった。",
+    "note": "Focus: past い-adjective.",
+    "tags": [
+      { "icon": "bi-moon", "label": "Time" },
+      { "icon": "bi-clock-history", "label": "Past adj" }
+    ]
+  },
+  {
+    "english": "Shinjuku Station is the worst.",
+    "japanese": "しんじゅくえき は さいてい だ。",
+    "note": "Focus: plain present ending with だ.",
+    "tags": [
+      { "icon": "bi-train-front", "label": "Place" },
+      { "icon": "bi-chat-left-text", "label": "Opinion" }
+    ]
+  },
+  {
+    "english": "I love the cute music at Takadanobaba Station.",
+    "japanese": "たかだのばばえき の かわいい おんがく が だいすき。",
+    "note": "Focus: の possession/location phrase + が だいすき.",
+    "tags": [
+      { "icon": "bi-music-note-beamed", "label": "Music" },
+      { "icon": "bi-heart", "label": "だいすき" }
+    ]
+  },
+  {
+    "english": "I want to buy comfortable black jeans.",
+    "japanese": "はきやすい、くろい ジーンズ を かいたい。",
+    "note": "Focus: 〜たい + adjectives before a noun.",
+    "tags": [
+      { "icon": "bi-bag", "label": "Shopping" },
+      { "icon": "bi-stars", "label": "たい form" }
+    ]
+  },
+  {
+    "english": "I lost my fluffy purple scarf yesterday.",
+    "japanese": "きのう ふわふわ の むらさき の マフラー を なくした。",
+    "note": "Focus: past verb なくした.",
+    "tags": [
+      { "icon": "bi-calendar3", "label": "Time" },
+      { "icon": "bi-play-circle", "label": "Past verb" }
+    ]
+  },
+  {
+    "english": "This café is stylish and has a good atmosphere.",
+    "japanese": "この カフェ は おしゃれ で、ふんいき が いい。",
+    "note": "Focus: な-adjective joining with で.",
+    "tags": [
+      { "icon": "bi-cup-hot", "label": "Cafe" },
+      { "icon": "bi-link-45deg", "label": "Adj join" }
+    ]
+  },
+  {
+    "english": "Her guitar is expensive but amazing.",
+    "japanese": "かのじょ の ギター は たかい けど、さいこう。",
+    "note": "Focus: けど contrast.",
+    "tags": [
+      { "icon": "bi-music-note", "label": "Music" },
+      { "icon": "bi-link", "label": "けど" }
+    ]
+  },
+  {
+    "english": "That shop was the best and not expensive.",
+    "japanese": "あの みせ は さいこう で、やすくなかった。",
+    "note": "Focus: で + past negative い-adjective.",
+    "tags": [
+      { "icon": "bi-link-45deg", "label": "Adj join" },
+      { "icon": "bi-dash-circle", "label": "Negative" },
+      { "icon": "bi-clock-history", "label": "Past" }
+    ]
+  },
+  {
+    "english": "I'm going to buy a bigger notebook.",
+    "japanese": "もっと おおきい ノート を かう。",
+    "note": "Focus: non-past verb for future meaning.",
+    "tags": [
+      { "icon": "bi-journal-text", "label": "Object を" },
+      { "icon": "bi-arrow-right", "label": "Future" }
+    ]
+  },
+  {
+    "english": "I want a stylish pink pen.",
+    "japanese": "おしゃれ な ピンク の ペン が ほしい。",
+    "note": "Focus: な-adjective before a noun + が ほしい.",
+    "tags": [
+      { "icon": "bi-pen", "label": "Stationery" },
+      { "icon": "bi-stars", "label": "ほしい" }
+    ]
+  },
+  {
+    "english": "Those clothes are old and dirty.",
+    "japanese": "あの ふく は ふるくて、よごれている。",
+    "note": "Focus: い-adjective joining with くて + ている.",
+    "tags": [
+      { "icon": "bi-link-45deg", "label": "Adj join" },
+      { "icon": "bi-arrow-repeat", "label": "ている" }
+    ]
+  },
+  {
+    "english": "That library is very far and small.",
+    "japanese": "あの としょかん は とても とおくて、ちいさい。",
+    "note": "Focus: い-adjective joining with くて.",
+    "tags": [
+      { "icon": "bi-book", "label": "Library" },
+      { "icon": "bi-link-45deg", "label": "Adj join" }
+    ]
+  },
+  {
+    "english": "This hotel is old but clean.",
+    "japanese": "この ホテル は ふるい けど、きれい。",
+    "note": "Focus: けど with い-adjective + な-adjective.",
+    "tags": [
+      { "icon": "bi-building", "label": "Place" },
+      { "icon": "bi-link", "label": "けど" }
+    ]
+  },
+  {
+    "english": "This weekend I'll definitely make dinner.",
+    "japanese": "こんしゅうまつ は ぜったい ばんごはん を つくる。",
+    "note": "Focus: non-past verb for future meaning.",
+    "tags": [
+      { "icon": "bi-calendar-week", "label": "Time" },
+      { "icon": "bi-play", "label": "Non-past" }
+    ]
+  },
+  {
+    "english": "Yesterday I found a quiet little café.",
+    "japanese": "きのう しずかな、ちいさい カフェ を みつけた。",
+    "note": "Focus: adjective + adjective + noun + past verb.",
+    "tags": [
+      { "icon": "bi-cup-hot", "label": "Cafe" },
+      { "icon": "bi-play-circle", "label": "Past verb" }
+    ]
+  },
+  {
+    "english": "This new computer is faster.",
+    "japanese": "この あたらしい コンピューター の ほう が はやい。",
+    "note": "Focus: の ほう が for comparison.",
+    "tags": [
+      { "icon": "bi-laptop", "label": "Tech" },
+      { "icon": "bi-arrow-up", "label": "Comparison" }
+    ]
+  },
+  {
+    "english": "This TV is very heavy but really small.",
+    "japanese": "この テレビ は とても おもい けど、めっちゃ ちいさい。",
+    "note": "Focus: けど contrast.",
+    "tags": [
+      { "icon": "bi-tv", "label": "Object" },
+      { "icon": "bi-link", "label": "けど" }
+    ]
+  },
+  {
+    "english": "This book was so long and boring.",
+    "japanese": "この ほん は めっちゃ ながくて、つまらなかった。",
+    "note": "Focus: くて + past negative-like adjective form.",
+    "tags": [
+      { "icon": "bi-book", "label": "Book" },
+      { "icon": "bi-clock-history", "label": "Past adj" }
+    ]
+  },
+  {
+    "english": "I always oversleep and I'm always late.",
+    "japanese": "いつも ねぼう して、いつも おくれる。",
+    "note": "Focus: て-form joining actions.",
+    "tags": [
+      { "icon": "bi-alarm", "label": "Habit" },
+      { "icon": "bi-link-45deg", "label": "て-form" }
+    ]
+  },
+  {
+    "english": "My room is between an izakaya and a kindergarten. I never sleep.",
+    "japanese": "わたし の へや は いざかや と ようちえん の あいだ。ぜんぜん ねない。",
+    "note": "Focus: と for joining nouns + negative verb.",
+    "tags": [
+      { "icon": "bi-house", "label": "Place" },
+      { "icon": "bi-dash-circle", "label": "Negative" }
+    ]
+  },
+  {
+    "english": "This cat café smells terrible.",
+    "japanese": "この ねこ カフェ は におい が ひどい。",
+    "note": "Focus: が with におい.",
+    "tags": [
+      { "icon": "bi-cup-hot", "label": "Cafe" },
+      { "icon": "bi-type", "label": "Adjective" }
+    ]
+  },
+  {
+    "english": "My dog doesn't like green chairs.",
+    "japanese": "わたし の いぬ は みどり の いす が きらい。",
+    "note": "Focus: が きらい.",
+    "tags": [
+      { "icon": "bi-heartbreak", "label": "きらい" },
+      { "icon": "bi-palette", "label": "Colour" }
+    ]
+  },
+  {
+    "english": "Her boyfriend thinks Abe Hiroshi is sexy.",
+    "japanese": "かのじょ の かれし は あべ ひろし は セクシー だ と おもう。",
+    "note": "Focus: と おもう.",
+    "tags": [
+      { "icon": "bi-chat-quote", "label": "と おもう" },
+      { "icon": "bi-person-heart", "label": "Opinion" }
+    ]
+  },
+  {
+    "english": "My teacher said cats are evil.",
+    "japanese": "せんせい は ねこ は わるい と いっていた。",
+    "note": "Focus: と いっていた.",
+    "tags": [
+      { "icon": "bi-chat-left-quote", "label": "と いっていた" },
+      { "icon": "bi-type", "label": "Adjective" }
+    ]
+  },
+  {
+    "english": "He thinks she is cute but scary.",
+    "japanese": "かれ は かのじょ は かわいい けど、こわい と おもう。",
+    "note": "Focus: けど inside と おもう.",
+    "tags": [
+      { "icon": "bi-chat-quote", "label": "と おもう" },
+      { "icon": "bi-link", "label": "けど" }
+    ]
+  },
+  {
+    "english": "My dog thinks I am crazy.",
+    "japanese": "わたし の いぬ は わたし は おかしい と おもう。",
+    "note": "Focus: と おもう.",
+    "tags": [
+      { "icon": "bi-chat-quote", "label": "と おもう" },
+      { "icon": "bi-emoji-smile", "label": "Funny" }
+    ]
+  },
+  {
+    "english": "Her new dress is hideous.",
+    "japanese": "かのじょ の あたらしい ドレス は ひどい。",
+    "note": "Focus: adjective before noun + adjective sentence.",
+    "tags": [
+      { "icon": "bi-palette", "label": "Clothes" },
+      { "icon": "bi-type", "label": "Adjective" }
+    ]
+  },
+  {
+    "english": "Music is the best. It always makes me happy.",
+    "japanese": "おんがく は さいこう。いつも うれしい。",
+    "note": "Focus: short simple opinion sentences.",
+    "tags": [
+      { "icon": "bi-music-note-beamed", "label": "Music" },
+      { "icon": "bi-heart", "label": "Opinion" }
+    ]
+  },
+  {
+    "english": "I never drink water.",
+    "japanese": "みず は ぜんぜん のまない。",
+    "note": "Focus: ぜんぜん + negative verb.",
+    "tags": [
+      { "icon": "bi-dash-circle", "label": "Negative" },
+      { "icon": "bi-cup-straw", "label": "Drink" }
+    ]
+  },
+  {
+    "english": "I forgot my lunch again.",
+    "japanese": "また おべんとう を わすれた。",
+    "note": "Focus: past verb わすれた.",
+    "tags": [
+      { "icon": "bi-arrow-counterclockwise", "label": "また" },
+      { "icon": "bi-play-circle", "label": "Past verb" }
+    ]
+  },
+  {
+    "english": "I made this ugly cake.",
+    "japanese": "この ぶさいく な ケーキ を つくった。",
+    "note": "Focus: な-adjective before noun + past verb.",
+    "tags": [
+      { "icon": "bi-cake2", "label": "Food" },
+      { "icon": "bi-play-circle", "label": "Past verb" }
+    ]
+  },
+  {
+    "english": "I always use the slow elevator.",
+    "japanese": "いつも おそい エレベーター を つかう。",
+    "note": "Focus: habitual present verb.",
+    "tags": [
+      { "icon": "bi-arrow-repeat", "label": "Habit" },
+      { "icon": "bi-play", "label": "Non-past" }
+    ]
+  },
+  {
+    "english": "At three a.m. I finally got home.",
+    "japanese": "ごぜん さんじ に やっと いえ に かえった。",
+    "note": "Focus: exact time + past verb.",
+    "tags": [
+      { "icon": "bi-clock", "label": "Time" },
+      { "icon": "bi-house", "label": "Home" }
+    ]
+  },
+  {
+    "english": "Walking is boring but driving is dangerous.",
+    "japanese": "あるく の は つまらない けど、うんてん は あぶない。",
+    "note": "Focus: verb + の turns an action into a noun.",
+    "tags": [
+      { "icon": "bi-link", "label": "けど" },
+      { "icon": "bi-type", "label": "の nominaliser" }
+    ]
+  },
+  {
+    "english": "The Shinkansen is fast but sooo expensive.",
+    "japanese": "しんかんせん は はやい けど、めっちゃ たかい。",
+    "note": "Focus: けど with two い-adjectives.",
+    "tags": [
+      { "icon": "bi-train-front", "label": "Travel" },
+      { "icon": "bi-link", "label": "けど" }
+    ]
+  },
+  {
+    "english": "The convenience store has the best snacks.",
+    "japanese": "コンビニ は おかし が さいこう。",
+    "note": "Focus: が with opinion phrase.",
+    "tags": [
+      { "icon": "bi-shop", "label": "Shop" },
+      { "icon": "bi-stars", "label": "さいこう" }
+    ]
+  },
+  {
+    "english": "I always find fun books at Village Vanguard.",
+    "japanese": "いつも ヴィレッジヴァンガード で おもしろい ほん を みつける。",
+    "note": "Focus: place で + object を + verb.",
+    "tags": [
+      { "icon": "bi-geo-alt", "label": "Place で" },
+      { "icon": "bi-book", "label": "Books" }
+    ]
+  },
+  {
+    "english": "I want to stay in a ryokan in Hokkaido.",
+    "japanese": "ほっかいどう の りょかん に とまりたい。",
+    "note": "Focus: に + たい form.",
+    "tags": [
+      { "icon": "bi-building", "label": "Place に" },
+      { "icon": "bi-stars", "label": "たい form" }
+    ]
+  },
+  {
+    "english": "I never bring my textbook.",
+    "japanese": "きょうかしょ は ぜんぜん もっていかない。",
+    "note": "Focus: ぜんぜん + negative verb.",
+    "tags": [
+      { "icon": "bi-dash-circle", "label": "Negative" },
+      { "icon": "bi-journal-text", "label": "Study" }
+    ]
+  },
+  {
+    "english": "I always forget my phone.",
+    "japanese": "いつも けいたい を わすれる。",
+    "note": "Focus: habitual present verb.",
+    "tags": [
+      { "icon": "bi-phone", "label": "Phone" },
+      { "icon": "bi-arrow-repeat", "label": "Habit" }
+    ]
+  },
+  {
+    "english": "I forgot my keys last week.",
+    "japanese": "せんしゅう かぎ を わすれた。",
+    "note": "Focus: past verb わすれた.",
+    "tags": [
+      { "icon": "bi-calendar3", "label": "Time" },
+      { "icon": "bi-play-circle", "label": "Past verb" }
+    ]
+  },
+  {
+    "english": "My head hurts.",
+    "japanese": "あたま が いたい。",
+    "note": "Focus: body part が いたい.",
+    "tags": [
+      { "icon": "bi-heart-pulse", "label": "Body" },
+      { "icon": "bi-type", "label": "Adjective" }
+    ]
+  },
+  {
+    "english": "I don't want to go to bed.",
+    "japanese": "ねたくない。",
+    "note": "Focus: negative たい form.",
+    "tags": [
+      { "icon": "bi-moon", "label": "Sleep" },
+      { "icon": "bi-dash-circle", "label": "Negative" }
+    ]
+  },
+  {
+    "english": "I want to leave the house by 6:30.",
+    "japanese": "ろくじはん まで に いえ を でたい。",
+    "note": "Focus: までに + でたい.",
+    "tags": [
+      { "icon": "bi-clock", "label": "までに" },
+      { "icon": "bi-door-open", "label": "でる" }
+    ]
+  },
+  {
+    "english": "I'll arrive at the party at 10:30.",
+    "japanese": "じゅうじはん に パーティー に つく。",
+    "note": "Focus: exact time に + place に + つく.",
+    "tags": [
+      { "icon": "bi-clock", "label": "Time に" },
+      { "icon": "bi-geo-alt", "label": "Place に" }
+    ]
+  },
+  {
+    "english": "I helped prepare for the event yesterday.",
+    "japanese": "きのう イベント の じゅんび を てつだった。",
+    "note": "Focus: past verb てつだった.",
+    "tags": [
+      { "icon": "bi-calendar3", "label": "Time" },
+      { "icon": "bi-hands", "label": "Help" }
+    ]
+  },
+  {
+    "english": "I appeared in a library video.",
+    "japanese": "としょかん の どうが に でた。",
+    "note": "Focus: どうが に でる.",
+    "tags": [
+      { "icon": "bi-camera-video", "label": "Video" },
+      { "icon": "bi-door-open", "label": "でる" }
+    ]
+  }
+]
