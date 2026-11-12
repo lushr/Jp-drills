@@ -34,9 +34,9 @@
     ]
   },
   {
-    "english": "I found a really great cheap restaurant on Saturday.",
-    "japanese": "どようび に めっちゃ いい、やすい レストラン を みつけた。",
-    "note": "Focus: two adjectives before a noun + past verb.",
+    "english": "On Saturday, I found a cheap, really great restaurant!",
+    "japanese": "どようび に、やすくて めっちゃ いい レストラン を みつけた！",
+    "note": "やすくて connects the い-adjective やすい to the following description; めっちゃ いい = really great.",
     "tags": [
       {
         "icon": "bi-calendar3",
