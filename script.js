@@ -15,6 +15,30 @@ const progressText = document.getElementById('progressText');
 const progressBar = document.getElementById('progressBar');
 const chipRow = document.getElementById('chipRow');
 const noteText = document.getElementById('noteText');
+const speakButton = document.getElementById('speakButton');
+const voiceNote = document.getElementById('voiceNote');
+const speechSupported = 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
+let japaneseVoice = null;
+function updateJapaneseVoice() {
+  if (!speechSupported) return;
+  const voices = speechSynthesis.getVoices();
+  japaneseVoice = voices.find(v => v.lang.toLowerCase() === 'ja-jp') || voices.find(v => v.lang.toLowerCase().startsWith('ja')) || null;
+}
+if (speechSupported) {
+  updateJapaneseVoice();
+  speechSynthesis.addEventListener?.('voiceschanged', updateJapaneseVoice);
+}
+function stopSpeech() { if (speechSupported) speechSynthesis.cancel(); }
+speakButton.addEventListener('click', () => {
+  if (!speechSupported || !currentCard?.pronunciationApproved) return;
+  stopSpeech();
+  updateJapaneseVoice();
+  const utterance = new SpeechSynthesisUtterance(currentCard.japanese);
+  utterance.lang = 'ja-JP';
+  if (japaneseVoice) utterance.voice = japaneseVoice;
+  utterance.rate = 0.85;
+  speechSynthesis.speak(utterance);
+});
 
 async function loadDeck() {
   try {
@@ -39,6 +63,7 @@ function shuffleDeck() {
 }
 
 function showCard() {
+  stopSpeech();
   if (currentIndex >= order.length) {
     shuffleDeck();
   }
@@ -47,6 +72,9 @@ function showCard() {
   englishPrompt.textContent = currentCard.english;
   japaneseAnswer.textContent = currentCard.japanese;
   noteText.textContent = currentCard.note || '';
+  const canSpeak = !!currentCard.pronunciationApproved && speechSupported;
+  speakButton.classList.toggle('hidden', !canSpeak);
+  voiceNote.classList.toggle('hidden', !canSpeak);
   answerCard.classList.add('hidden');
   revealButton.classList.remove('hidden');
   renderChips(currentCard.tags || []);
