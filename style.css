@@ -232,3 +232,7 @@ h2 {
     padding: 14px 12px;
   }
 }
+
+.set-picker { display:flex; flex-wrap:wrap; gap:8px; margin-top:14px; }
+.set-button { min-width:44px; min-height:42px; border:3px solid var(--ink); border-radius:12px; background:var(--blue); color:var(--ink); font:900 1rem system-ui; cursor:pointer; }
+.set-button.active { background:var(--pink-strong); box-shadow:3px 3px 0 var(--ink); }
