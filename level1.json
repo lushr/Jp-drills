@@ -4,9 +4,18 @@
     "japanese": "ゆうべ この めっちゃ ふるい ばんぐみ を みた。さいこう だった。",
     "note": "Focus: past short-form verb + past な-style ending.",
     "tags": [
-      { "icon": "bi-clock", "label": "Time" },
-      { "icon": "bi-play-circle", "label": "Past verb" },
-      { "icon": "bi-stars", "label": "Opinion" }
+      {
+        "icon": "bi-clock",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      },
+      {
+        "icon": "bi-stars",
+        "label": "Opinion"
+      }
     ]
   },
   {
@@ -14,8 +23,14 @@
     "japanese": "はらじゅく は いつも カラフル で、めっちゃ こんでいた。",
     "note": "Focus: な-adjective joining with で.",
     "tags": [
-      { "icon": "bi-link-45deg", "label": "Adj join" },
-      { "icon": "bi-clock-history", "label": "Past" }
+      {
+        "icon": "bi-link-45deg",
+        "label": "Adj join"
+      },
+      {
+        "icon": "bi-clock-history",
+        "label": "Past"
+      }
     ]
   },
   {
@@ -23,9 +38,18 @@
     "japanese": "どようび に めっちゃ いい、やすい レストラン を みつけた。",
     "note": "Focus: two adjectives before a noun + past verb.",
     "tags": [
-      { "icon": "bi-calendar3", "label": "Time" },
-      { "icon": "bi-type", "label": "Adj + noun" },
-      { "icon": "bi-play-circle", "label": "Past verb" }
+      {
+        "icon": "bi-calendar3",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-type",
+        "label": "Adj + noun"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      }
     ]
   },
   {
@@ -33,8 +57,14 @@
     "japanese": "あの ロボット は へん だけど、めっちゃ しんせつ だった。",
     "note": "Focus: けど contrast + past な-adjective.",
     "tags": [
-      { "icon": "bi-link", "label": "けど" },
-      { "icon": "bi-clock-history", "label": "Past" }
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      },
+      {
+        "icon": "bi-clock-history",
+        "label": "Past"
+      }
     ]
   },
   {
@@ -42,8 +72,14 @@
     "japanese": "この カレー は おいしい けど、めっちゃ からい。",
     "note": "Focus: けど with two い-adjectives.",
     "tags": [
-      { "icon": "bi-link", "label": "けど" },
-      { "icon": "bi-type", "label": "い-adj" }
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      },
+      {
+        "icon": "bi-type",
+        "label": "い-adj"
+      }
     ]
   },
   {
@@ -51,8 +87,14 @@
     "japanese": "よる の こうえんじ は こわかった。",
     "note": "Focus: past い-adjective.",
     "tags": [
-      { "icon": "bi-moon", "label": "Time" },
-      { "icon": "bi-clock-history", "label": "Past adj" }
+      {
+        "icon": "bi-moon",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-clock-history",
+        "label": "Past adj"
+      }
     ]
   },
   {
@@ -60,8 +102,14 @@
     "japanese": "しんじゅくえき は さいてい だ。",
     "note": "Focus: plain present ending with だ.",
     "tags": [
-      { "icon": "bi-train-front", "label": "Place" },
-      { "icon": "bi-chat-left-text", "label": "Opinion" }
+      {
+        "icon": "bi-train-front",
+        "label": "Place"
+      },
+      {
+        "icon": "bi-chat-left-text",
+        "label": "Opinion"
+      }
     ]
   },
   {
@@ -69,8 +117,14 @@
     "japanese": "たかだのばばえき の かわいい おんがく が だいすき。",
     "note": "Focus: の possession/location phrase + が だいすき.",
     "tags": [
-      { "icon": "bi-music-note-beamed", "label": "Music" },
-      { "icon": "bi-heart", "label": "だいすき" }
+      {
+        "icon": "bi-music-note-beamed",
+        "label": "Music"
+      },
+      {
+        "icon": "bi-heart",
+        "label": "だいすき"
+      }
     ]
   },
   {
@@ -78,8 +132,14 @@
     "japanese": "はきやすい、くろい ジーンズ を かいたい。",
     "note": "Focus: 〜たい + adjectives before a noun.",
     "tags": [
-      { "icon": "bi-bag", "label": "Shopping" },
-      { "icon": "bi-stars", "label": "たい form" }
+      {
+        "icon": "bi-bag",
+        "label": "Shopping"
+      },
+      {
+        "icon": "bi-stars",
+        "label": "たい form"
+      }
     ]
   },
   {
@@ -87,8 +147,14 @@
     "japanese": "きのう ふわふわ の むらさき の マフラー を なくした。",
     "note": "Focus: past verb なくした.",
     "tags": [
-      { "icon": "bi-calendar3", "label": "Time" },
-      { "icon": "bi-play-circle", "label": "Past verb" }
+      {
+        "icon": "bi-calendar3",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      }
     ]
   },
   {
@@ -96,8 +162,14 @@
     "japanese": "この カフェ は おしゃれ で、ふんいき が いい。",
     "note": "Focus: な-adjective joining with で.",
     "tags": [
-      { "icon": "bi-cup-hot", "label": "Cafe" },
-      { "icon": "bi-link-45deg", "label": "Adj join" }
+      {
+        "icon": "bi-cup-hot",
+        "label": "Cafe"
+      },
+      {
+        "icon": "bi-link-45deg",
+        "label": "Adj join"
+      }
     ]
   },
   {
@@ -105,8 +177,14 @@
     "japanese": "かのじょ の ギター は たかい けど、さいこう。",
     "note": "Focus: けど contrast.",
     "tags": [
-      { "icon": "bi-music-note", "label": "Music" },
-      { "icon": "bi-link", "label": "けど" }
+      {
+        "icon": "bi-music-note",
+        "label": "Music"
+      },
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      }
     ]
   },
   {
@@ -114,9 +192,18 @@
     "japanese": "あの みせ は さいこう で、やすくなかった。",
     "note": "Focus: で + past negative い-adjective.",
     "tags": [
-      { "icon": "bi-link-45deg", "label": "Adj join" },
-      { "icon": "bi-dash-circle", "label": "Negative" },
-      { "icon": "bi-clock-history", "label": "Past" }
+      {
+        "icon": "bi-link-45deg",
+        "label": "Adj join"
+      },
+      {
+        "icon": "bi-dash-circle",
+        "label": "Negative"
+      },
+      {
+        "icon": "bi-clock-history",
+        "label": "Past"
+      }
     ]
   },
   {
@@ -124,8 +211,14 @@
     "japanese": "もっと おおきい ノート を かう。",
     "note": "Focus: non-past verb for future meaning.",
     "tags": [
-      { "icon": "bi-journal-text", "label": "Object を" },
-      { "icon": "bi-arrow-right", "label": "Future" }
+      {
+        "icon": "bi-journal-text",
+        "label": "Object を"
+      },
+      {
+        "icon": "bi-arrow-right",
+        "label": "Future"
+      }
     ]
   },
   {
@@ -133,8 +226,14 @@
     "japanese": "おしゃれ な ピンク の ペン が ほしい。",
     "note": "Focus: な-adjective before a noun + が ほしい.",
     "tags": [
-      { "icon": "bi-pen", "label": "Stationery" },
-      { "icon": "bi-stars", "label": "ほしい" }
+      {
+        "icon": "bi-pen",
+        "label": "Stationery"
+      },
+      {
+        "icon": "bi-stars",
+        "label": "ほしい"
+      }
     ]
   },
   {
@@ -142,8 +241,14 @@
     "japanese": "あの ふく は ふるくて、よごれている。",
     "note": "Focus: い-adjective joining with くて + ている.",
     "tags": [
-      { "icon": "bi-link-45deg", "label": "Adj join" },
-      { "icon": "bi-arrow-repeat", "label": "ている" }
+      {
+        "icon": "bi-link-45deg",
+        "label": "Adj join"
+      },
+      {
+        "icon": "bi-arrow-repeat",
+        "label": "ている"
+      }
     ]
   },
   {
@@ -151,8 +256,14 @@
     "japanese": "あの としょかん は とても とおくて、ちいさい。",
     "note": "Focus: い-adjective joining with くて.",
     "tags": [
-      { "icon": "bi-book", "label": "Library" },
-      { "icon": "bi-link-45deg", "label": "Adj join" }
+      {
+        "icon": "bi-book",
+        "label": "Library"
+      },
+      {
+        "icon": "bi-link-45deg",
+        "label": "Adj join"
+      }
     ]
   },
   {
@@ -160,8 +271,14 @@
     "japanese": "この ホテル は ふるい けど、きれい。",
     "note": "Focus: けど with い-adjective + な-adjective.",
     "tags": [
-      { "icon": "bi-building", "label": "Place" },
-      { "icon": "bi-link", "label": "けど" }
+      {
+        "icon": "bi-building",
+        "label": "Place"
+      },
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      }
     ]
   },
   {
@@ -169,8 +286,14 @@
     "japanese": "こんしゅうまつ は ぜったい ばんごはん を つくる。",
     "note": "Focus: non-past verb for future meaning.",
     "tags": [
-      { "icon": "bi-calendar-week", "label": "Time" },
-      { "icon": "bi-play", "label": "Non-past" }
+      {
+        "icon": "bi-calendar-week",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-play",
+        "label": "Non-past"
+      }
     ]
   },
   {
@@ -178,8 +301,14 @@
     "japanese": "きのう しずかな、ちいさい カフェ を みつけた。",
     "note": "Focus: adjective + adjective + noun + past verb.",
     "tags": [
-      { "icon": "bi-cup-hot", "label": "Cafe" },
-      { "icon": "bi-play-circle", "label": "Past verb" }
+      {
+        "icon": "bi-cup-hot",
+        "label": "Cafe"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      }
     ]
   },
   {
@@ -187,8 +316,14 @@
     "japanese": "この あたらしい コンピューター の ほう が はやい。",
     "note": "Focus: の ほう が for comparison.",
     "tags": [
-      { "icon": "bi-laptop", "label": "Tech" },
-      { "icon": "bi-arrow-up", "label": "Comparison" }
+      {
+        "icon": "bi-laptop",
+        "label": "Tech"
+      },
+      {
+        "icon": "bi-arrow-up",
+        "label": "Comparison"
+      }
     ]
   },
   {
@@ -196,8 +331,14 @@
     "japanese": "この テレビ は とても おもい けど、めっちゃ ちいさい。",
     "note": "Focus: けど contrast.",
     "tags": [
-      { "icon": "bi-tv", "label": "Object" },
-      { "icon": "bi-link", "label": "けど" }
+      {
+        "icon": "bi-tv",
+        "label": "Object"
+      },
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      }
     ]
   },
   {
@@ -205,8 +346,14 @@
     "japanese": "この ほん は めっちゃ ながくて、つまらなかった。",
     "note": "Focus: くて + past negative-like adjective form.",
     "tags": [
-      { "icon": "bi-book", "label": "Book" },
-      { "icon": "bi-clock-history", "label": "Past adj" }
+      {
+        "icon": "bi-book",
+        "label": "Book"
+      },
+      {
+        "icon": "bi-clock-history",
+        "label": "Past adj"
+      }
     ]
   },
   {
@@ -214,8 +361,14 @@
     "japanese": "いつも ねぼう して、いつも おくれる。",
     "note": "Focus: て-form joining actions.",
     "tags": [
-      { "icon": "bi-alarm", "label": "Habit" },
-      { "icon": "bi-link-45deg", "label": "て-form" }
+      {
+        "icon": "bi-alarm",
+        "label": "Habit"
+      },
+      {
+        "icon": "bi-link-45deg",
+        "label": "て-form"
+      }
     ]
   },
   {
@@ -223,8 +376,14 @@
     "japanese": "わたし の へや は いざかや と ようちえん の あいだ。ぜんぜん ねない。",
     "note": "Focus: と for joining nouns + negative verb.",
     "tags": [
-      { "icon": "bi-house", "label": "Place" },
-      { "icon": "bi-dash-circle", "label": "Negative" }
+      {
+        "icon": "bi-house",
+        "label": "Place"
+      },
+      {
+        "icon": "bi-dash-circle",
+        "label": "Negative"
+      }
     ]
   },
   {
@@ -232,8 +391,14 @@
     "japanese": "この ねこ カフェ は におい が ひどい。",
     "note": "Focus: が with におい.",
     "tags": [
-      { "icon": "bi-cup-hot", "label": "Cafe" },
-      { "icon": "bi-type", "label": "Adjective" }
+      {
+        "icon": "bi-cup-hot",
+        "label": "Cafe"
+      },
+      {
+        "icon": "bi-type",
+        "label": "Adjective"
+      }
     ]
   },
   {
@@ -241,8 +406,14 @@
     "japanese": "わたし の いぬ は みどり の いす が きらい。",
     "note": "Focus: が きらい.",
     "tags": [
-      { "icon": "bi-heartbreak", "label": "きらい" },
-      { "icon": "bi-palette", "label": "Colour" }
+      {
+        "icon": "bi-heartbreak",
+        "label": "きらい"
+      },
+      {
+        "icon": "bi-palette",
+        "label": "Colour"
+      }
     ]
   },
   {
@@ -250,8 +421,14 @@
     "japanese": "かのじょ の かれし は あべ ひろし は セクシー だ と おもう。",
     "note": "Focus: と おもう.",
     "tags": [
-      { "icon": "bi-chat-quote", "label": "と おもう" },
-      { "icon": "bi-person-heart", "label": "Opinion" }
+      {
+        "icon": "bi-chat-quote",
+        "label": "と おもう"
+      },
+      {
+        "icon": "bi-person-heart",
+        "label": "Opinion"
+      }
     ]
   },
   {
@@ -259,8 +436,14 @@
     "japanese": "せんせい は ねこ は わるい と いっていた。",
     "note": "Focus: と いっていた.",
     "tags": [
-      { "icon": "bi-chat-left-quote", "label": "と いっていた" },
-      { "icon": "bi-type", "label": "Adjective" }
+      {
+        "icon": "bi-chat-left-quote",
+        "label": "と いっていた"
+      },
+      {
+        "icon": "bi-type",
+        "label": "Adjective"
+      }
     ]
   },
   {
@@ -268,8 +451,14 @@
     "japanese": "かれ は かのじょ は かわいい けど、こわい と おもう。",
     "note": "Focus: けど inside と おもう.",
     "tags": [
-      { "icon": "bi-chat-quote", "label": "と おもう" },
-      { "icon": "bi-link", "label": "けど" }
+      {
+        "icon": "bi-chat-quote",
+        "label": "と おもう"
+      },
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      }
     ]
   },
   {
@@ -277,8 +466,14 @@
     "japanese": "わたし の いぬ は わたし は おかしい と おもう。",
     "note": "Focus: と おもう.",
     "tags": [
-      { "icon": "bi-chat-quote", "label": "と おもう" },
-      { "icon": "bi-emoji-smile", "label": "Funny" }
+      {
+        "icon": "bi-chat-quote",
+        "label": "と おもう"
+      },
+      {
+        "icon": "bi-emoji-smile",
+        "label": "Funny"
+      }
     ]
   },
   {
@@ -286,8 +481,14 @@
     "japanese": "かのじょ の あたらしい ドレス は ひどい。",
     "note": "Focus: adjective before noun + adjective sentence.",
     "tags": [
-      { "icon": "bi-palette", "label": "Clothes" },
-      { "icon": "bi-type", "label": "Adjective" }
+      {
+        "icon": "bi-palette",
+        "label": "Clothes"
+      },
+      {
+        "icon": "bi-type",
+        "label": "Adjective"
+      }
     ]
   },
   {
@@ -295,8 +496,14 @@
     "japanese": "おんがく は さいこう。いつも うれしい。",
     "note": "Focus: short simple opinion sentences.",
     "tags": [
-      { "icon": "bi-music-note-beamed", "label": "Music" },
-      { "icon": "bi-heart", "label": "Opinion" }
+      {
+        "icon": "bi-music-note-beamed",
+        "label": "Music"
+      },
+      {
+        "icon": "bi-heart",
+        "label": "Opinion"
+      }
     ]
   },
   {
@@ -304,8 +511,14 @@
     "japanese": "みず は ぜんぜん のまない。",
     "note": "Focus: ぜんぜん + negative verb.",
     "tags": [
-      { "icon": "bi-dash-circle", "label": "Negative" },
-      { "icon": "bi-cup-straw", "label": "Drink" }
+      {
+        "icon": "bi-dash-circle",
+        "label": "Negative"
+      },
+      {
+        "icon": "bi-cup-straw",
+        "label": "Drink"
+      }
     ]
   },
   {
@@ -313,8 +526,14 @@
     "japanese": "また おべんとう を わすれた。",
     "note": "Focus: past verb わすれた.",
     "tags": [
-      { "icon": "bi-arrow-counterclockwise", "label": "また" },
-      { "icon": "bi-play-circle", "label": "Past verb" }
+      {
+        "icon": "bi-arrow-counterclockwise",
+        "label": "また"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      }
     ]
   },
   {
@@ -322,8 +541,14 @@
     "japanese": "この ぶさいく な ケーキ を つくった。",
     "note": "Focus: な-adjective before noun + past verb.",
     "tags": [
-      { "icon": "bi-cake2", "label": "Food" },
-      { "icon": "bi-play-circle", "label": "Past verb" }
+      {
+        "icon": "bi-cake2",
+        "label": "Food"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      }
     ]
   },
   {
@@ -331,8 +556,14 @@
     "japanese": "いつも おそい エレベーター を つかう。",
     "note": "Focus: habitual present verb.",
     "tags": [
-      { "icon": "bi-arrow-repeat", "label": "Habit" },
-      { "icon": "bi-play", "label": "Non-past" }
+      {
+        "icon": "bi-arrow-repeat",
+        "label": "Habit"
+      },
+      {
+        "icon": "bi-play",
+        "label": "Non-past"
+      }
     ]
   },
   {
@@ -340,8 +571,14 @@
     "japanese": "ごぜん さんじ に やっと いえ に かえった。",
     "note": "Focus: exact time + past verb.",
     "tags": [
-      { "icon": "bi-clock", "label": "Time" },
-      { "icon": "bi-house", "label": "Home" }
+      {
+        "icon": "bi-clock",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-house",
+        "label": "Home"
+      }
     ]
   },
   {
@@ -349,8 +586,14 @@
     "japanese": "あるく の は つまらない けど、うんてん は あぶない。",
     "note": "Focus: verb + の turns an action into a noun.",
     "tags": [
-      { "icon": "bi-link", "label": "けど" },
-      { "icon": "bi-type", "label": "の nominaliser" }
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      },
+      {
+        "icon": "bi-type",
+        "label": "の nominaliser"
+      }
     ]
   },
   {
@@ -358,8 +601,14 @@
     "japanese": "しんかんせん は はやい けど、めっちゃ たかい。",
     "note": "Focus: けど with two い-adjectives.",
     "tags": [
-      { "icon": "bi-train-front", "label": "Travel" },
-      { "icon": "bi-link", "label": "けど" }
+      {
+        "icon": "bi-train-front",
+        "label": "Travel"
+      },
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      }
     ]
   },
   {
@@ -367,8 +616,14 @@
     "japanese": "コンビニ は おかし が さいこう。",
     "note": "Focus: が with opinion phrase.",
     "tags": [
-      { "icon": "bi-shop", "label": "Shop" },
-      { "icon": "bi-stars", "label": "さいこう" }
+      {
+        "icon": "bi-shop",
+        "label": "Shop"
+      },
+      {
+        "icon": "bi-stars",
+        "label": "さいこう"
+      }
     ]
   },
   {
@@ -376,8 +631,14 @@
     "japanese": "いつも ヴィレッジヴァンガード で おもしろい ほん を みつける。",
     "note": "Focus: place で + object を + verb.",
     "tags": [
-      { "icon": "bi-geo-alt", "label": "Place で" },
-      { "icon": "bi-book", "label": "Books" }
+      {
+        "icon": "bi-geo-alt",
+        "label": "Place で"
+      },
+      {
+        "icon": "bi-book",
+        "label": "Books"
+      }
     ]
   },
   {
@@ -385,8 +646,14 @@
     "japanese": "ほっかいどう の りょかん に とまりたい。",
     "note": "Focus: に + たい form.",
     "tags": [
-      { "icon": "bi-building", "label": "Place に" },
-      { "icon": "bi-stars", "label": "たい form" }
+      {
+        "icon": "bi-building",
+        "label": "Place に"
+      },
+      {
+        "icon": "bi-stars",
+        "label": "たい form"
+      }
     ]
   },
   {
@@ -394,8 +661,14 @@
     "japanese": "きょうかしょ は ぜんぜん もっていかない。",
     "note": "Focus: ぜんぜん + negative verb.",
     "tags": [
-      { "icon": "bi-dash-circle", "label": "Negative" },
-      { "icon": "bi-journal-text", "label": "Study" }
+      {
+        "icon": "bi-dash-circle",
+        "label": "Negative"
+      },
+      {
+        "icon": "bi-journal-text",
+        "label": "Study"
+      }
     ]
   },
   {
@@ -403,8 +676,14 @@
     "japanese": "いつも けいたい を わすれる。",
     "note": "Focus: habitual present verb.",
     "tags": [
-      { "icon": "bi-phone", "label": "Phone" },
-      { "icon": "bi-arrow-repeat", "label": "Habit" }
+      {
+        "icon": "bi-phone",
+        "label": "Phone"
+      },
+      {
+        "icon": "bi-arrow-repeat",
+        "label": "Habit"
+      }
     ]
   },
   {
@@ -412,8 +691,14 @@
     "japanese": "せんしゅう かぎ を わすれた。",
     "note": "Focus: past verb わすれた.",
     "tags": [
-      { "icon": "bi-calendar3", "label": "Time" },
-      { "icon": "bi-play-circle", "label": "Past verb" }
+      {
+        "icon": "bi-calendar3",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      }
     ]
   },
   {
@@ -421,8 +706,14 @@
     "japanese": "あたま が いたい。",
     "note": "Focus: body part が いたい.",
     "tags": [
-      { "icon": "bi-heart-pulse", "label": "Body" },
-      { "icon": "bi-type", "label": "Adjective" }
+      {
+        "icon": "bi-heart-pulse",
+        "label": "Body"
+      },
+      {
+        "icon": "bi-type",
+        "label": "Adjective"
+      }
     ]
   },
   {
@@ -430,8 +721,14 @@
     "japanese": "ねたくない。",
     "note": "Focus: negative たい form.",
     "tags": [
-      { "icon": "bi-moon", "label": "Sleep" },
-      { "icon": "bi-dash-circle", "label": "Negative" }
+      {
+        "icon": "bi-moon",
+        "label": "Sleep"
+      },
+      {
+        "icon": "bi-dash-circle",
+        "label": "Negative"
+      }
     ]
   },
   {
@@ -439,8 +736,14 @@
     "japanese": "ろくじはん まで に いえ を でたい。",
     "note": "Focus: までに + でたい.",
     "tags": [
-      { "icon": "bi-clock", "label": "までに" },
-      { "icon": "bi-door-open", "label": "でる" }
+      {
+        "icon": "bi-clock",
+        "label": "までに"
+      },
+      {
+        "icon": "bi-door-open",
+        "label": "でる"
+      }
     ]
   },
   {
@@ -448,8 +751,14 @@
     "japanese": "じゅうじはん に パーティー に つく。",
     "note": "Focus: exact time に + place に + つく.",
     "tags": [
-      { "icon": "bi-clock", "label": "Time に" },
-      { "icon": "bi-geo-alt", "label": "Place に" }
+      {
+        "icon": "bi-clock",
+        "label": "Time に"
+      },
+      {
+        "icon": "bi-geo-alt",
+        "label": "Place に"
+      }
     ]
   },
   {
@@ -457,8 +766,14 @@
     "japanese": "きのう イベント の じゅんび を てつだった。",
     "note": "Focus: past verb てつだった.",
     "tags": [
-      { "icon": "bi-calendar3", "label": "Time" },
-      { "icon": "bi-hands", "label": "Help" }
+      {
+        "icon": "bi-calendar3",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-hands",
+        "label": "Help"
+      }
     ]
   },
   {
@@ -466,8 +781,29 @@
     "japanese": "としょかん の どうが に でた。",
     "note": "Focus: どうが に でる.",
     "tags": [
-      { "icon": "bi-camera-video", "label": "Video" },
-      { "icon": "bi-door-open", "label": "でる" }
+      {
+        "icon": "bi-camera-video",
+        "label": "Video"
+      },
+      {
+        "icon": "bi-door-open",
+        "label": "でる"
+      }
+    ]
+  },
+  {
+    "english": "What a useless old geezer.",
+    "japanese": "やくたたず の じじい だな。",
+    "note": "やくたたず = good-for-nothing (fixed expression); の links it to じじい; だな adds a muttered, dismissive tone.",
+    "tags": [
+      {
+        "icon": "bi-chat-left-text",
+        "label": "Informal"
+      },
+      {
+        "icon": "bi-stars",
+        "label": "Expression"
+      }
     ]
   }
 ]
