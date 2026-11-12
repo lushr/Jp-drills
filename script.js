@@ -62,7 +62,7 @@ function renderSets() {
     const button = document.createElement('button');
     button.type = 'button';
     button.className = 'set-button' + (i === currentSet ? ' active' : '');
-    button.textContent = String(i + 1);
+    button.textContent = String.fromCharCode(65 + i);
     button.setAttribute('aria-label', 'Set ' + (i + 1));
     button.setAttribute('aria-pressed', String(i === currentSet));
     button.addEventListener('click', () => chooseSet(i));
