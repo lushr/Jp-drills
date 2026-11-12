@@ -16,7 +16,8 @@
         "icon": "bi-stars",
         "label": "Opinion"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   },
   {
     "english": "Harajuku was always colourful and annoyingly crowded.",
@@ -31,7 +32,8 @@
         "icon": "bi-clock-history",
         "label": "Past"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   },
   {
     "english": "On Saturday, I found a cheap, really great restaurant!",
@@ -50,7 +52,8 @@
         "icon": "bi-play-circle",
         "label": "Past verb"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   },
   {
     "english": "That robot was strange but really friendly.",
@@ -65,7 +68,8 @@
         "icon": "bi-clock-history",
         "label": "Past"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   },
   {
     "english": "This curry is delicious but very spicy.",
@@ -80,7 +84,8 @@
         "icon": "bi-type",
         "label": "い-adj"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   },
   {
     "english": "Kabukichō was scary at night.",
@@ -95,7 +100,8 @@
         "icon": "bi-clock-history",
         "label": "Past adj"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   },
   {
     "english": "Shinjuku Station is the worst.",
@@ -110,7 +116,8 @@
         "icon": "bi-chat-left-text",
         "label": "Opinion"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   },
   {
     "english": "I love the music at Takadanobaba Station. So nostalgic!",
@@ -125,7 +132,8 @@
         "icon": "bi-heart",
         "label": "だいすき"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   },
   {
     "english": "I want to buy comfortable black jeans.",
@@ -140,7 +148,8 @@
         "icon": "bi-stars",
         "label": "たい form"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   },
   {
     "english": "I lost my fluffy purple scarf yesterday.",
@@ -155,7 +164,8 @@
         "icon": "bi-play-circle",
         "label": "Past verb"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   },
   {
     "english": "This café is stylish and has a good atmosphere.",
@@ -804,6 +814,7 @@
         "icon": "bi-stars",
         "label": "Expression"
       }
-    ]
+    ],
+    "pronunciationApproved": true
   }
 ]
