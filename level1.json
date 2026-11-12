@@ -792,9 +792,9 @@
     ]
   },
   {
-    "english": "What a useless old geezer.",
-    "japanese": "やくたたず の じじい だな。",
-    "note": "やくたたず = good-for-nothing (fixed expression); の links it to じじい; だな adds a muttered, dismissive tone.",
+    "english": "You're a useless old geezer!",
+    "japanese": "てめえ は やくたたず の じじい だ！",
+    "note": "てめえ = extremely rude 'you'; やくたたず = good-for-nothing; の links to じじい (old geezer); だ = blunt ending.",
     "tags": [
       {
         "icon": "bi-chat-left-text",
