@@ -3,8 +3,11 @@ const deckFile = 'level1.json';
 let deck = [];
 let order = [];
 let currentIndex = 0;
+let currentSet = 0;
+const SET_SIZE = 10;
 let currentCard = null;
 
+const setPicker = document.getElementById('setPicker');
 const englishPrompt = document.getElementById('englishPrompt');
 const japaneseAnswer = document.getElementById('japaneseAnswer');
 const answerCard = document.getElementById('answerCard');
@@ -45,16 +48,37 @@ async function loadDeck() {
     const response = await fetch(deckFile);
     if (!response.ok) throw new Error('Could not load deck.');
     deck = await response.json();
-    shuffleDeck();
-    showCard();
+    chooseSet(0);
   } catch (error) {
     englishPrompt.textContent = 'Could not load level1.json. Check the file is in the same folder as index.html.';
     revealButton.classList.add('hidden');
   }
 }
 
+function renderSets() {
+  setPicker.replaceChildren();
+  const count = Math.ceil(deck.length / SET_SIZE);
+  for (let i = 0; i < count; i++) {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'set-button' + (i === currentSet ? ' active' : '');
+    button.textContent = String(i + 1);
+    button.setAttribute('aria-label', 'Set ' + (i + 1));
+    button.setAttribute('aria-pressed', String(i === currentSet));
+    button.addEventListener('click', () => chooseSet(i));
+    setPicker.appendChild(button);
+  }
+}
+function chooseSet(index) {
+  currentSet = index;
+  shuffleDeck();
+  renderSets();
+  showCard();
+}
 function shuffleDeck() {
-  order = [...Array(deck.length).keys()];
+  const start = currentSet * SET_SIZE;
+  const end = Math.min(start + SET_SIZE, deck.length);
+  order = Array.from({length: end - start}, (_, i) => start + i);
   for (let i = order.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [order[i], order[j]] = [order[j], order[i]];
@@ -65,7 +89,17 @@ function shuffleDeck() {
 function showCard() {
   stopSpeech();
   if (currentIndex >= order.length) {
-    shuffleDeck();
+    currentCard = null;
+    englishPrompt.textContent = 'Set complete!';
+    japaneseAnswer.textContent = '';
+    noteText.textContent = '';
+    answerCard.classList.add('hidden');
+    revealButton.classList.add('hidden');
+    speakButton.classList.add('hidden');
+    voiceNote.classList.add('hidden');
+    chipRow.replaceChildren();
+    updateProgress();
+    return;
   }
 
   currentCard = deck[order[currentIndex]];
@@ -92,9 +126,9 @@ function renderChips(tags) {
 }
 
 function updateProgress() {
-  const seen = Math.min(currentIndex + 1, deck.length);
-  progressText.textContent = `${seen} / ${deck.length}`;
-  progressBar.style.width = `${(seen / deck.length) * 100}%`;
+  const seen = Math.min(currentIndex + 1, order.length);
+  progressText.textContent = `${seen} / ${order.length}`;
+  progressBar.style.width = `${(seen / order.length) * 100}%`;
 }
 
 revealButton.addEventListener('click', () => {
